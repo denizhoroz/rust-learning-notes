@@ -1,0 +1,1 @@
+C:\Users\deniz\OneDrive\Masaüstü\Files\codebin\tutorials\rust-learning\2-guessing-game\guessing_game\target\debug\guessing_game.exe: C:\Users\deniz\OneDrive\Masaüstü\Files\codebin\tutorials\rust-learning\2-guessing-game\guessing_game\src\main.rs
