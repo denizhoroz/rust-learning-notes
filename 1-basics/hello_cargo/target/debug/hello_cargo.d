@@ -1,0 +1,1 @@
+C:\Users\deniz\OneDrive\Masaüstü\Files\codebin\tutorials\rust-learning\1-basics\hello_cargo\target\debug\hello_cargo.exe: C:\Users\deniz\OneDrive\Masaüstü\Files\codebin\tutorials\rust-learning\1-basics\hello_cargo\src\main.rs
