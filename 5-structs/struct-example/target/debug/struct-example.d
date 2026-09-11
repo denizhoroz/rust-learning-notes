@@ -1,0 +1,1 @@
+C:\Users\deniz\OneDrive\Masaüstü\Files\codebin\tutorials\rust-learning\5-structs\struct-example\target\debug\struct-example.exe: C:\Users\deniz\OneDrive\Masaüstü\Files\codebin\tutorials\rust-learning\5-structs\struct-example\src\main.rs
