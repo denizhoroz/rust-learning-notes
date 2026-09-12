@@ -313,14 +313,14 @@ fn main() {
 
     let word = first_word(&s);
 
-	
+    
 
-	// This causes the error
+    // This causes the error
     s.clear(); // error!
 
-	
+    
 
-	// The word immutable variable is connected to mutable s
+    // The word immutable variable is connected to mutable s
     println!("the first word is: {word}");
 } 
 ```
